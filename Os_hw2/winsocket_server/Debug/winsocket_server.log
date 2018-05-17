@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  winsocket_server.cpp
+c:\users\owner\desktop\year3_hw\winsocket_example\winsocket_server\winsocket_server.cpp(88): warning C4101: 'read_size': unreferenced local variable
+  winsocket_server.vcxproj -> C:\Users\owner\Desktop\year3_hw\WINSocket_example\Debug\winsocket_server.exe

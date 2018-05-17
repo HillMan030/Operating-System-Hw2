@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  winsocket_client.cpp
+c:\users\owner\desktop\year3_hw\winsocket_example\winsocket_client\winsocket_client.cpp(24): warning C4101: 'server_reply': unreferenced local variable
+c:\users\owner\desktop\year3_hw\winsocket_example\winsocket_client\winsocket_client.cpp(22): warning C4101: 'sendbuf': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\owner\Desktop\year3_hw\WINSocket_example\Debug\winsocket_client.exe for writing
